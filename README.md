@@ -42,3 +42,7 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/botir-dev/botir-dev/output/snake.svg" alt="Snake animation" />
